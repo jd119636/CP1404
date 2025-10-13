@@ -2,8 +2,15 @@
 CP1404/CP5632 - Practical
 Program for temperature conversion
 """
-def teperature_to_celsius(temp):
-    return (temp - 32) * 5/9
+def temperature_to_celsius():
+    temp = (float(input("Enter the temperature in Farrenheit: ")))
+    final_temp = ((temp - 32) * 5/9)
+    print(final_temp)
+
+def temperature_to_fahrenheit():
+    temp = (float(input("Enter the temperature in Celsius: ")))
+    final_temp = ((temp * 9) / 5) + 32
+    print(final_temp)
 
 MENU = """C - Convert Celsius to Fahrenheit
 F - Convert Fahrenheit to Celsius
@@ -12,14 +19,9 @@ print(MENU)
 choice = input(">>> ").upper()
 while choice != "Q":
     if choice == "C":
-        temperature_to_celsius = input("Enter temperature in Celsius: ")
-        # celsius = float(input("Celsius: "))
-        # fahrenheit = celsius * 9.0 / 5 + 32
-        # print(f"Result: {fahrenheit:.2f} F")
+        temperature_to_fahrenheit()
     elif choice == "F":
-        fahrenheit = float(input("Fahrenheit : "))
-        celsius = 5 / 9 * (fahrenheit - 32)
-        print(f"Result: {celsius:.2f} C")
+        temperature_to_celsius()
     else:
         print("Invalid option")
     print(MENU)
