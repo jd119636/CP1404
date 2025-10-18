@@ -59,63 +59,65 @@
 # print(type(thing))
 #
 
-# import random
-# def print_secret_name(name):
-#     letters = list(name)
-#     random.shuffle(letters)
-#     print("".join(letters))
-#
-# def display_menu():
-#     print("\nMenu:")
-#     print("G - get Valid Non Empty Name")
-#     print("P - Hello")
-#     print("S - Print Secret name")
-#     print("Q - Quit")
-#
-# def get_name():
-#     name = input("Enter your name: ")
-#     while name == "":
-#         print("Name cannot be blank")
-#         name = input("Enter your name: ")
-#     return name
-# def print_line(length):
-#     print("-" * length)
-#
-#
-# display_menu()
-# choice = input("\n Which option would you like to choose: ").upper()
-#
-#
-# def Print_greeting():
-#     Length= (len(name)+6)
-#     print_line(Length)
-#     print(f"Hello {name}")
-#     print_line(Length)
-#
-#
-# while choice != "Q":
-#     if choice == "G":
-#         name = get_name()
-#         display_menu()
-#         choice = input("Which option would you like to choose: ").upper()
-#     elif choice == "P":
-#         Print_greeting()
-#         display_menu()
-#         choice = input("Which option would you like to choose: ").upper()
-#     elif choice == "S":
-#         print_secret_name(name)
-#         display_menu()
-#         choice = input("Which option would you like to choose: ").upper()
-#     else:
-#         print("Invalid choice")
-#         display_menu()
-#         choice = input("Which option would you like to choose: ").upper()
-# print("Thank you for playing")
+import random
+def print_secret_name(name):
+    letters = list(name)
+    random.shuffle(letters)
+    print("".join(letters))
+
+def display_menu():
+    print("\nMenu:")
+    print("G - get Valid Non Empty Name")
+    print("P - Hello")
+    print("S - Print Secret name")
+    print("Q - Quit")
+
+def get_name():
+    name = input("Enter your name: ")
+    while name == "":
+        print("Name cannot be blank")
+        name = input("Enter your name: ")
+    return name
+
+def print_line(length):
+    print("-" * length)
+
+def Print_greeting():
+    Length= (len(name)+6)
+    print_line(Length)
+    print(f"Hello {name}")
+    print_line(Length)
+
+
+
+display_menu()
+choice = input("\n Which option would you like to choose: ").upper()
+
+
+
+while choice != "Q":
+    if choice == "G":
+        name = get_name()
+        display_menu()
+        choice = input("Which option would you like to choose: ").upper()
+    elif choice == "P":
+        Print_greeting()
+        display_menu()
+        choice = input("Which option would you like to choose: ").upper()
+    elif choice == "S":
+        print_secret_name(name)
+        display_menu()
+        choice = input("Which option would you like to choose: ").upper()
+    else:
+        print("Invalid choice")
+        display_menu()
+        choice = input("Which option would you like to choose: ").upper()
+print("Thank you for playing")
 
 
 # def print_line (length, pen = '-'):
 #     print(pen*length)
 #
 # print_line(5)
-#
+
 

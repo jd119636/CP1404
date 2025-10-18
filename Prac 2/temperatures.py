@@ -12,10 +12,12 @@ def temperature_to_fahrenheit():
     final_temp = ((temp * 9) / 5) + 32
     print(final_temp)
 
-MENU = """C - Convert Celsius to Fahrenheit
-F - Convert Fahrenheit to Celsius
-Q - Quit"""
-print(MENU)
+def menu():
+    print ("C - Converts Celsius to Fahrenheit")
+    print ("F - Converts Fahrenheit to Celsius")
+    print ("Q - Quit")
+
+menu()
 choice = input(">>> ").upper()
 while choice != "Q":
     if choice == "C":
@@ -24,6 +26,6 @@ while choice != "Q":
         temperature_to_celsius()
     else:
         print("Invalid option")
-    print(MENU)
+    menu()
     choice = input(">>> ").upper()
 print("Thank you.")
