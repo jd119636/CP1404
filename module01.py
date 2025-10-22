@@ -59,60 +59,64 @@
 # print(type(thing))
 #
 
-import random
-def print_secret_name(name):
-    letters = list(name)
-    random.shuffle(letters)
-    print("".join(letters))
-
-def display_menu():
-    print("\nMenu:")
-    print("G - get Valid Non Empty Name")
-    print("P - Hello")
-    print("S - Print Secret name")
-    print("Q - Quit")
-
-def get_name():
-    name = input("Enter your name: ")
-    while name == "":
-        print("Name cannot be blank")
-        name = input("Enter your name: ")
-    return name
-
-def print_line(length):
-    print("-" * length)
-
-def Print_greeting():
-    Length= (len(name)+6)
-    print_line(Length)
-    print(f"Hello {name}")
-    print_line(Length)
 
 
+# import random
+# def print_secret_name(name):
+#     letters = list(name)
+#     random.shuffle(letters)
+#     print("".join(letters))
+#
+# def display_menu():
+#     print("\nMenu:")
+#     print("G - get Valid Non Empty Name")
+#     print("P - Hello")
+#     print("S - Print Secret name")
+#     print("Q - Quit")
+#
+# def get_name():
+#     name = input("Enter your name: ")
+#     while name == "":
+#         print("Name cannot be blank")
+#         name = input("Enter your name: ")
+#     return name
+#
+# def print_line(length):
+#     print("-" * length)
+#
+# def Print_greeting():
+#     Length= (len(name)+6)
+#     print_line(Length)
+#     print(f"Hello {name}")
+#     print_line(Length)
+#
+#
+#
+# display_menu()
+# choice = input("\n Which option would you like to choose: ").upper()
+#
+#
+#
+# while choice != "Q":
+#     if choice == "G":
+#         name = get_name()
+#         display_menu()
+#         choice = input("Which option would you like to choose: ").upper()
+#     elif choice == "P":
+#         Print_greeting()
+#         display_menu()
+#         choice = input("Which option would you like to choose: ").upper()
+#     elif choice == "S":
+#         print_secret_name(name)
+#         display_menu()
+#         choice = input("Which option would you like to choose: ").upper()
+#     else:
+#         print("Invalid choice")
+#         display_menu()
+#         choice = input("Which option would you like to choose: ").upper()
+# print("Thank you for playing")
+#
 
-display_menu()
-choice = input("\n Which option would you like to choose: ").upper()
-
-
-
-while choice != "Q":
-    if choice == "G":
-        name = get_name()
-        display_menu()
-        choice = input("Which option would you like to choose: ").upper()
-    elif choice == "P":
-        Print_greeting()
-        display_menu()
-        choice = input("Which option would you like to choose: ").upper()
-    elif choice == "S":
-        print_secret_name(name)
-        display_menu()
-        choice = input("Which option would you like to choose: ").upper()
-    else:
-        print("Invalid choice")
-        display_menu()
-        choice = input("Which option would you like to choose: ").upper()
-print("Thank you for playing")
 
 
 # def print_line (length, pen = '-'):
@@ -121,3 +125,69 @@ print("Thank you for playing")
 # print_line(5)
 
 
+# FILENAME = "secret.txt"
+#
+#
+# def main():
+#     secret = load_number(FILENAME)
+#     guess = get_valid_number()
+#     while guess != secret:
+#         print("Guess again")
+#         guess = get_valid_number()
+#     print("you got it")
+#
+# def get_valid_number():
+#     is_valid_input = False
+#     while not is_valid_input:
+#         try:
+#             guess = int(input("Guess a number: "))
+#             is_valid_input = True
+#         except ValueError:
+#             print("Invalid integer")
+#     return guess
+#
+# get_valid_number()
+#
+# def load_number(filename):
+#     try:
+#         infile = open(filename, "r")
+#         number = int(infile.read())
+#     except ValueError:
+#         print(f"Invalid number in {filename}")
+#         number = 6
+#     except FileNotFoundError:
+#         print(f"File {filename} not found")
+#         number = 4
+#     else:
+#         infile.close()
+#     return number
+#
+# main()
+
+
+# line = "Indra Kiiver...."
+# line.strip('.')
+# print (line.strip())
+
+# infile = open("SECRET.md")
+# infile.readlines("#")
+# infile.close()
+
+# with open("data.txt", "r") as infile:
+#     infile.readline()   #ignore header
+#     for line in infile:
+#         # print(line)
+#         parts = line.strip().split(',')
+#         # print(parts)
+#
+#         name = parts[0]
+#         age = int(parts[1])
+#         print(f"{name} will be {age+1} years old next year")
+
+infile = open("dataset.txt","r")
+for line in infile:
+    parts = line.strip("\n").split(',')
+    name = parts[0]
+    age = int(parts[1])
+    cost = float(parts[2]).strip("\n")
+    print(f"{name} was made in {age} and costs {cost}.")
