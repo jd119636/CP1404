@@ -184,10 +184,34 @@
 #         age = int(parts[1])
 #         print(f"{name} will be {age+1} years old next year")
 
-infile = open("dataset.txt","r")
-for line in infile:
-    parts = line.strip("\n").split(',')
-    name = parts[0]
-    age = int(parts[1])
-    cost = float(parts[2]).strip("\n")
-    print(f"{name} was made in {age} and costs {cost}.")
+# infile = open("dataset.txt","r")
+# for line in infile:
+#     parts = line.strip("\n").split(',')
+#     name = parts[0]
+#     age = int(parts[1])
+#     cost = float(parts[2]).strip("\n")
+#     print(f"{name} was made in {age} and costs {cost}.")
+
+# names = ("Craig", "Michael", "Terrance", "Philip")
+# number = int(input(f"Enter number up to {len(names)}:"))
+# try:
+#     print(names[number-1])
+# except IndexError:
+#     print("Invalid input.")
+
+# from operator import itemgetter
+# data = [['Derek', 7], ['Carrie', 8],['Bob', 6], ['Aaron', 9] ]
+# # data.sort()
+# data.sort(key=itemgetter(1), reverse = True)
+# for record in data:
+#     print(data)
+
+# score_pairs = [['Derek', 7], ['Carrie', 8], ['Bob', 6]]
+# data = input ("Enter a name and score:")
+# parts = data.split()
+# score_pairs.append(parts)
+# print(score_pairs)
+
+# fruit = ['orange', 'apple', 'pear', 'banana']
+# balls = "-{}- {}".format(*fruit)
+# print(balls)
