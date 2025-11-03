@@ -215,3 +215,45 @@
 # fruit = ['orange', 'apple', 'pear', 'banana']
 # balls = "-{}- {}".format(*fruit)
 # print(balls)
+
+
+
+# def main():
+#     """Display income report for incomes over a given number of months."""
+#     incomes = []
+#     months = int(input("How many months? "))
+#
+#     for month in range(1, months + 1):
+#         income = float(input(f"Enter income for month: $"))
+#         incomes.append(income)
+#
+#     print("\nIncome Report\n-------------")
+#     total = 0
+#     for month in range(1, months + 1):
+#         income = incomes[month - 1]
+#         total += income
+#         print("Month {:2} - Income: ${:10.2f} Total: ${:10.2f}".format(month, income, total))
+#
+#
+# main()
+
+
+
+# almost_numbers = ['0', '10', '21', '3', '-7', '88', '9']
+
+# numbers = [int(number.strip()) for number in almost_numbers]
+# print(numbers)
+
+# to create a string (not list) of the last names for those full names longer than 11 characters
+# the result should be: 'Harlem, Hendrix, Lovelace'
+# long_names = [name for name in full_names if len(name) > 11]
+# for name in long_names:
+#     print(name)
+
+# """Code does not generate duplicates through sample also join turns it into an integer"""
+# import random
+# quick_picks = int(input ("how many quick picks would you like to generate? :"))
+# for i in range(quick_picks):
+#     numbers = random.sample(range (1, 45), 6)
+#     numbers.sort()
+#     print(" ".join(f"{number:2}" for number in numbers))
