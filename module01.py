@@ -169,6 +169,7 @@
 # line.strip('.')
 # print (line.strip())
 
+"""opens a file and reads"""
 # infile = open("SECRET.md")
 # infile.readlines("#")
 # infile.close()
@@ -212,14 +213,14 @@
 # score_pairs.append(parts)
 # print(score_pairs)
 
+"""stores the first and second term in the list"""
 # fruit = ['orange', 'apple', 'pear', 'banana']
 # balls = "-{}- {}".format(*fruit)
 # print(balls)
 
 
-
+"""Display income report for incomes over a given number of months."""
 # def main():
-#     """Display income report for incomes over a given number of months."""
 #     incomes = []
 #     months = int(input("How many months? "))
 #
@@ -238,22 +239,98 @@
 # main()
 
 
-
+"""converts strings to integers"""
 # almost_numbers = ['0', '10', '21', '3', '-7', '88', '9']
-
 # numbers = [int(number.strip()) for number in almost_numbers]
 # print(numbers)
 
-# to create a string (not list) of the last names for those full names longer than 11 characters
-# the result should be: 'Harlem, Hendrix, Lovelace'
+"""prints names longer than 11 characters"""
 # long_names = [name for name in full_names if len(name) > 11]
 # for name in long_names:
 #     print(name)
 
-# """Code does not generate duplicates through sample also join turns it into an integer"""
+"""Code does not generate duplicates through sample also join turns it into an integer"""
 # import random
 # quick_picks = int(input ("how many quick picks would you like to generate? :"))
 # for i in range(quick_picks):
 #     numbers = random.sample(range (1, 45), 6)
 #     numbers.sort()
 #     print(" ".join(f"{number:2}" for number in numbers))
+
+
+"""asks if balls is a string"""
+from tkinter.font import names
+# isinstance("balls", str)
+
+"""finds the oldest in the list and prints the names if multiple people are the max age"""
+# data_names = ['John', 'Bob', 'Joe', 'James']
+# data_ages = [21, 34, 56, 56]
+#
+# def find_oldest(data_names, data_ages):
+#     oldest_age = max(data_ages)
+#
+#     count = data_ages.count(oldest_age)
+#     if count > 1:
+#         print(f"The oldest age is {oldest_age}.")
+#         print("People with that age:")
+#         for i in range(len(data_ages)):
+#             if data_ages[i] == oldest_age:
+#                 print(f"- {data_names[i]}")
+#     else:
+#         index = data_ages.index(max(data_ages))
+#         print(index)
+#         print (f"{data_names[index]} is {max(data_ages)}")
+#
+# find_oldest(data_names, data_ages)
+
+
+"""within a dictionary, removing witching names, adding names before"""
+# name_to_age = {'Ben' : 10, 'Sam': 20, 'Xarah': 30}
+# name_to_age ['Lucas'] = 40
+# name_to_age ['Zara'] = name_to_age.pop('Xarah')
+# print(name_to_age)
+#
+
+
+"""lists name and numbers of people for a dictionary"""
+# name_to_age = {'Ben' : 10, 'Sam': 20, 'Xarah': 30}
+# for name,age in name_to_age.items():
+#     print(name,age)
+#
+# ages = list(name_to_age.values())
+# ages.sort()
+# print(ages)
+# for name in name_to_age:
+#     print(f"{name} is {name_to_age[name]} years old")
+
+"""dictionary, new name and age and prints nicely"""
+# name_to_age = {'Bill' : 21, 'Jane': 4, 'Sven': 56}
+# new_name = str(input("enter your new name: "))
+# new_age = int(input("enter your new age: "))
+# name_to_age[new_name] = new_age
+# max_length = max(len(new_name) for new_name in list(name_to_age.keys()))
+# for name in name_to_age:
+#     print(f"{name:{max_length}} is {name_to_age[name]:3} years old")
+
+"""splits the text by commas, then join removes the quotes"""
+# text = """EG2000 EG2008 EG2000 EG2008"""
+# print(",".join(set(text.split())))
+
+"""step out and open, strip all lines"""
+# in_file = open('../data/wimbledon')
+# lines = [line,strip() for line in in_file.readlines()]
+
+"""using jason (accessing things in dictionary) and adding text to a dictionary"""
+# import json
+# demo_text = """{"number": 1, "title": "Demo", "state": "open"}"""
+#
+# thing = json.loads(demo_text)
+# print(thing)
+# print(type(thing))
+# print(thing['title'])
+# thing['title'] = thing['title'].upper()
+# print(thing['title'])
+#
+# text = json.dumps(thing)
+# print(text)
+# print(type(text))
