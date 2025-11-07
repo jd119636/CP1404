@@ -1,3 +1,6 @@
+"""estimated time 20 mins
+    Actual time 120 mins"""
+
 def split_email(email):
     """Split an email into first and last name parts"""
     name_part = email.split("@")[0]
