@@ -167,7 +167,7 @@
 # print (line.strip())
 
 """opens a file and reads"""
-from prac_05.wimbledon import in_file
+# from prac_05.wimbledon import in_file
 
 # infile = open("SECRET.md")
 # infile.readlines("#")
@@ -258,8 +258,7 @@ from prac_05.wimbledon import in_file
 
 
 """asks if balls is a string"""
-from tkinter.font import names
-
+# from tkinter.font import names
 # isinstance("balls", str)
 
 """finds the oldest in the list and prints the names if multiple people are the max age"""
@@ -407,3 +406,21 @@ from tkinter.font import names
 # from prac_06 import City
 # city = City(row[1],row[2],row[3])
 
+"""sees if the variable is something else"""
+# isinstance(x, int)
+
+"""method to add special values"""
+# def __add__ (self, other):
+#     return City(self.name + other.name)
+
+"""class work"""
+# def __eq__ (self, other):
+#     return City(self.name == other.name, self.age == other.age)
+
+"""to link something"""
+# [me](https:)
+
+"""datetime module"""
+# import datetime
+# balls = datetime.date(2022, 11, 23)
+# print (balls.strftime("%d %b %Y (%A)"))
