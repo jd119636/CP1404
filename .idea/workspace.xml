@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="taking README.md out of master">
-      <change afterPath="$PROJECT_DIR$/prac_07/guitar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_07/guitars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_07/language_file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_07/languages.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_07/my_guitars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_07/programming_language.py" afterDir="false" />
+    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="Sorting guitars.csv by age">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_07/my_guitars.py" beforeDir="false" afterPath="$PROJECT_DIR$/prac_07/my_guitars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +240,7 @@
       <workItem from="1763273910437" duration="1198000" />
       <workItem from="1763275123273" duration="6569000" />
       <workItem from="1763291891059" duration="1397000" />
-      <workItem from="1763351579572" duration="3403000" />
+      <workItem from="1763351579572" duration="4058000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting the Prac 2 branch and fixing the name of the repo">
       <option name="closed" value="true" />
@@ -375,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763292640816</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Sorting guitars.csv by age">
+      <option name="closed" value="true" />
+      <created>1763358159200</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1763358159200</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,11 +443,12 @@
     <MESSAGE value="practice with datetime module" />
     <MESSAGE value=".idea files" />
     <MESSAGE value="taking README.md out of master" />
-    <option name="LAST_COMMIT_MESSAGE" value="taking README.md out of master" />
+    <MESSAGE value="Sorting guitars.csv by age" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sorting guitars.csv by age" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CP1404$guitar_tester.coverage" NAME="guitar_tester Coverage Results" MODIFIED="1763261611382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
-    <SUITE FILE_PATH="coverage/CP1404$my_guitars.coverage" NAME="my_guitars Coverage Results" MODIFIED="1763357579572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
+    <SUITE FILE_PATH="coverage/CP1404$my_guitars.coverage" NAME="my_guitars Coverage Results" MODIFIED="1763358433236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1763200335827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$module01.coverage" NAME="module01 Coverage Results" MODIFIED="1763282819842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1763257490523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
