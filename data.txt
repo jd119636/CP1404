@@ -1,4 +1,0 @@
-name,age
-Lindsay,44
-Bob,20
-Jimi,99
