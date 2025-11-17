@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment=".idea files" />
+    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="taking README.md out of master">
+      <change afterPath="$PROJECT_DIR$/prac_07/guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/guitars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/language_file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/languages.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/my_guitars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/programming_language.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Prac_05_Feedback" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_COMMON_BRANCH" value="prac_07_feedback" />
@@ -33,12 +41,12 @@
     &quot;assignee&quot;: &quot;jd119636&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jd119636/CP1404.git",
-    "accountId": "97357be2-8f59-415c-867f-792e0d4343e1"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jd119636/CP1404.git&quot;,
+    &quot;accountId&quot;: &quot;97357be2-8f59-415c-867f-792e0d4343e1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -52,17 +60,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.guitar_test.executor": "Run",
     "Python.guitar_tester.executor": "Run",
+    "Python.language_file_reader.executor": "Run",
     "Python.languages.executor": "Run",
     "Python.module01.executor": "Run",
+    "Python.my_guitars.executor": "Run",
     "Python.programming_language.executor": "Run",
     "Python.used_cars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "prac__07__feedback",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/PC/Documents/CP1404",
+    "last_opened_file_path": "C:/Users/PC/Documents/CP1404/prac_07",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,8 +83,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.guitar_test">
-    <configuration name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\CP1404\prac_07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.my_guitars">
+    <configuration name="language_file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,35 +98,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/guitar_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CP1404" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/list_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/language_file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,6 +127,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/list_exercises.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_guitars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP1404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/my_guitars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_guitars" />
+        <item itemvalue="Python.language_file_reader" />
         <item itemvalue="Python.subject_reader" />
         <item itemvalue="Python.quick_picks" />
         <item itemvalue="Python.list_exercises" />
-        <item itemvalue="Python.list_comprehensions" />
-        <item itemvalue="Python.guitar_test" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +244,8 @@
       <workItem from="1763272335481" duration="1506000" />
       <workItem from="1763273910437" duration="1198000" />
       <workItem from="1763275123273" duration="6569000" />
-      <workItem from="1763291891059" duration="391000" />
+      <workItem from="1763291891059" duration="1397000" />
+      <workItem from="1763351579572" duration="3403000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting the Prac 2 branch and fixing the name of the repo">
       <option name="closed" value="true" />
@@ -335,7 +351,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763292105120</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="taking README.md out of master">
+      <option name="closed" value="true" />
+      <created>1763292434153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1763292434153</updated>
+    </task>
+    <task id="LOCAL-00015" summary="taking README.md out of master">
+      <option name="closed" value="true" />
+      <created>1763292519724</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1763292519724</updated>
+    </task>
+    <task id="LOCAL-00016" summary="taking README.md out of master">
+      <option name="closed" value="true" />
+      <created>1763292640816</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1763292640816</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +412,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="prac_07_feedback" />
                       </list>
                     </value>
                   </entry>
@@ -399,14 +439,17 @@
     <MESSAGE value="fixing dir" />
     <MESSAGE value="practice with datetime module" />
     <MESSAGE value=".idea files" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea files" />
+    <MESSAGE value="taking README.md out of master" />
+    <option name="LAST_COMMIT_MESSAGE" value="taking README.md out of master" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CP1404$guitar_tester.coverage" NAME="guitar_tester Coverage Results" MODIFIED="1763261611382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$my_guitars.coverage" NAME="my_guitars Coverage Results" MODIFIED="1763357579572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1763200335827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$module01.coverage" NAME="module01 Coverage Results" MODIFIED="1763282819842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1763257490523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$guitar_test.coverage" NAME="guitar_test Coverage Results" MODIFIED="1763274827567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$programming_language.coverage" NAME="programming_language Coverage Results" MODIFIED="1763201196166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$language_file_reader.coverage" NAME="language_file_reader Coverage Results" MODIFIED="1763356118476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
   </component>
 </project>
