@@ -1,0 +1,628 @@
+Index: prac_03/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/vcs.xml b/prac_03/.idea/vcs.xml
+deleted file mode 100644
+--- a/prac_03/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_05/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/.gitignore b/prac_05/.idea/.gitignore
+deleted file mode 100644
+--- a/prac_05/.idea/.gitignore	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: prac_03/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/.gitignore b/prac_03/.idea/.gitignore
+deleted file mode 100644
+--- a/prac_03/.idea/.gitignore	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: prac_04/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/modules.xml b/prac_04/.idea/modules.xml
+deleted file mode 100644
+--- a/prac_04/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/prac_04.iml" filepath="$PROJECT_DIR$/.idea/prac_04.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_03/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/inspectionProfiles/profiles_settings.xml b/prac_03/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/prac_03/.idea/inspectionProfiles/profiles_settings.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: prac_03/.idea/prac_03.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/prac_03.iml b/prac_03/.idea/prac_03.iml
+deleted file mode 100644
+--- a/prac_03/.idea/prac_03.iml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.13 (prac_03)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: prac_05/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/inspectionProfiles/profiles_settings.xml b/prac_05/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/prac_05/.idea/inspectionProfiles/profiles_settings.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: prac_05/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/misc.xml b/prac_05/.idea/misc.xml
+deleted file mode 100644
+--- a/prac_05/.idea/misc.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (prac_05)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (prac_05)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: prac_05/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/vcs.xml b/prac_05/.idea/vcs.xml
+deleted file mode 100644
+--- a/prac_05/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_05/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/modules.xml b/prac_05/.idea/modules.xml
+deleted file mode 100644
+--- a/prac_05/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/prac_05.iml" filepath="$PROJECT_DIR$/.idea/prac_05.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_06/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/misc.xml b/prac_06/.idea/misc.xml
+deleted file mode 100644
+--- a/prac_06/.idea/misc.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (prac_06)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (prac_06)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/CP1404.iml" filepath="$PROJECT_DIR$/.idea/CP1404.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_02/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/.gitignore b/prac_02/.idea/.gitignore
+deleted file mode 100644
+--- a/prac_02/.idea/.gitignore	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: prac_06/.idea/prac_06.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/prac_06.iml b/prac_06/.idea/prac_06.iml
+deleted file mode 100644
+--- a/prac_06/.idea/prac_06.iml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.13 (prac_06)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: prac_03/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/misc.xml b/prac_03/.idea/misc.xml
+deleted file mode 100644
+--- a/prac_03/.idea/misc.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (prac_03)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (prac_03)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: prac_02/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/vcs.xml b/prac_02/.idea/vcs.xml
+deleted file mode 100644
+--- a/prac_02/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_04/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/inspectionProfiles/profiles_settings.xml b/prac_04/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/prac_04/.idea/inspectionProfiles/profiles_settings.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: prac_06/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/modules.xml b/prac_06/.idea/modules.xml
+deleted file mode 100644
+--- a/prac_06/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/prac_06.iml" filepath="$PROJECT_DIR$/.idea/prac_06.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_04/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/vcs.xml b/prac_04/.idea/vcs.xml
+deleted file mode 100644
+--- a/prac_04/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1763274661460" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: prac_02/.idea/prac_02.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/prac_02.iml b/prac_02/.idea/prac_02.iml
+deleted file mode 100644
+--- a/prac_02/.idea/prac_02.iml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.13 (prac_02)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: prac_04/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/.gitignore b/prac_04/.idea/.gitignore
+deleted file mode 100644
+--- a/prac_04/.idea/.gitignore	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,37 +0,0 @@
+-Index: .idea/modules.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/modules.xml b/.idea/modules.xml
+-new file mode 100644
+---- /dev/null	(date 1763090969437)
+-+++ b/.idea/modules.xml	(date 1763090969437)
+-@@ -0,0 +1,8 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="ProjectModuleManager">
+-+    <modules>
+-+      <module fileurl="file://$PROJECT_DIR$/.idea/CP1404.iml" filepath="$PROJECT_DIR$/.idea/CP1404.iml" />
+-+    </modules>
+-+  </component>
+-+</project>
+-\ No newline at end of file
+-Index: .idea/vcs.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+-new file mode 100644
+---- /dev/null	(date 1763274430081)
+-+++ b/.idea/vcs.xml	(date 1763274430081)
+-@@ -0,0 +1,7 @@
+-+<?xml version="1.0" encoding="UTF-8"?>
+-+<project version="4">
+-+  <component name="VcsDirectoryMappings">
+-+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-+    <mapping directory="$PROJECT_DIR$/a1-books-jd119636" vcs="Git" />
+-+  </component>
+-+</project>
+-\ No newline at end of file
+Index: prac_02/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/modules.xml b/prac_02/.idea/modules.xml
+deleted file mode 100644
+--- a/prac_02/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/prac_02.iml" filepath="$PROJECT_DIR$/.idea/prac_02.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_05/.idea/prac_05.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_05/.idea/prac_05.iml b/prac_05/.idea/prac_05.iml
+deleted file mode 100644
+--- a/prac_05/.idea/prac_05.iml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.13 (prac_05)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: prac_06/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/.gitignore b/prac_06/.idea/.gitignore
+deleted file mode 100644
+--- a/prac_06/.idea/.gitignore	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: prac_02/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/inspectionProfiles/profiles_settings.xml b/prac_02/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/prac_02/.idea/inspectionProfiles/profiles_settings.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: prac_04/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/misc.xml b/prac_04/.idea/misc.xml
+deleted file mode 100644
+--- a/prac_04/.idea/misc.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,7 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Black">
+-    <option name="sdkName" value="Python 3.13 (prac_04)" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (prac_04)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
+Index: prac_04/.idea/prac_04.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_04/.idea/prac_04.iml b/prac_04/.idea/prac_04.iml
+deleted file mode 100644
+--- a/prac_04/.idea/prac_04.iml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,10 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+-    </content>
+-    <orderEntry type="jdk" jdkName="Python 3.13 (prac_04)" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-</module>
+\ No newline at end of file
+Index: prac_06/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/inspectionProfiles/profiles_settings.xml b/prac_06/.idea/inspectionProfiles/profiles_settings.xml
+deleted file mode 100644
+--- a/prac_06/.idea/inspectionProfiles/profiles_settings.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<component name="InspectionProjectProfileManager">
+-  <settings>
+-    <option name="USE_PROJECT_PROFILE" value="false" />
+-    <version value="1.0" />
+-  </settings>
+-</component>
+\ No newline at end of file
+Index: prac_06/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_06/.idea/vcs.xml b/prac_06/.idea/vcs.xml
+deleted file mode 100644
+--- a/prac_06/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_03/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_03/.idea/modules.xml b/prac_03/.idea/modules.xml
+deleted file mode 100644
+--- a/prac_03/.idea/modules.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/prac_03.iml" filepath="$PROJECT_DIR$/.idea/prac_03.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: prac_02/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/prac_02/.idea/misc.xml b/prac_02/.idea/misc.xml
+deleted file mode 100644
+--- a/prac_02/.idea/misc.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ /dev/null	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (prac_02)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file

@@ -1,0 +1,506 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"ad4c3429-89c0-4c69-8663-d9836e40727c\" name=\"Changes\" comment=\"practice with datetime module\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/prac_02.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_02/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/prac_03.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_03/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/prac_04.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_04/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/prac_05.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_05/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/inspectionProfiles/profiles_settings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/modules.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/prac_06.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/prac_06/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/vcs.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/module01.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/module01.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"Prac_05_Feedback\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_COMMON_BRANCH\" value=\"master\" />\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;jd119636&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/jd119636/CP1014.git&quot;,\r\n    &quot;accountId&quot;: &quot;97357be2-8f59-415c-867f-792e0d4343e1&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"35S64nFBnNuFYC7CdPaqEWUEqjW\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"Python.guitar_test.executor\": \"Run\",\r\n    \"Python.guitar_tester.executor\": \"Run\",\r\n    \"Python.languages.executor\": \"Run\",\r\n    \"Python.module01.executor\": \"Run\",\r\n    \"Python.programming_language.executor\": \"Run\",\r\n    \"Python.used_cars.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1\": \"true\",\r\n    \"git-widget-placeholder\": \"prac__07__feedback\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/PC/Documents/CP1404\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"vcs.Git\",\r\n    \"to.speed.mode.migration.done\": \"true\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Python.module01\">\r\n    <configuration name=\"guitar_test\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CP1404\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/prac_06\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/prac_06/guitar_test.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"list_exercises\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CP1404\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Prac 4\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Prac 4/list_exercises.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"module01\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CP1404\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/module01.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"quick_picks\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CP1404\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Prac 4\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Prac 4/quick_picks.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"subject_reader\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"CP1404\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Prac 4\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Prac 4/subject_reader.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.module01\" />\r\n        <item itemvalue=\"Python.guitar_test\" />\r\n        <item itemvalue=\"Python.subject_reader\" />\r\n        <item itemvalue=\"Python.quick_picks\" />\r\n        <item itemvalue=\"Python.list_exercises\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106\" />\r\n        <option value=\"bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"ad4c3429-89c0-4c69-8663-d9836e40727c\" name=\"Changes\" comment=\"\" />\r\n      <created>1763090938372</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1763090938372</updated>\r\n      <workItem from=\"1763090939525\" duration=\"901000\" />\r\n      <workItem from=\"1763100489323\" duration=\"238000\" />\r\n      <workItem from=\"1763100761136\" duration=\"270000\" />\r\n      <workItem from=\"1763101192881\" duration=\"1169000\" />\r\n      <workItem from=\"1763103067923\" duration=\"265000\" />\r\n      <workItem from=\"1763103335466\" duration=\"26000\" />\r\n      <workItem from=\"1763196623848\" duration=\"366000\" />\r\n      <workItem from=\"1763197044275\" duration=\"924000\" />\r\n      <workItem from=\"1763197999065\" duration=\"14109000\" />\r\n      <workItem from=\"1763264545657\" duration=\"662000\" />\r\n      <workItem from=\"1763265631471\" duration=\"123000\" />\r\n      <workItem from=\"1763265784072\" duration=\"2060000\" />\r\n      <workItem from=\"1763272335481\" duration=\"1506000\" />\r\n      <workItem from=\"1763273910437\" duration=\"1198000\" />\r\n      <workItem from=\"1763275123273\" duration=\"4221000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Deleting the Prac 2 branch and fixing the name of the repo\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763100662944</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763100662953</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"programming_language.py completed\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763255883967</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763255883967</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"small fixes\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763255968896</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763255968896</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"guitars section done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763261641505</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763261641505</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"guitars section done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763266248978</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763266248978</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"guitars section done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763266790345</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763266790345</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"fixing dir\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763274605969</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763274605969</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"practice with datetime module\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763285788362</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763285788362</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"practice with datetime module\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763285843247</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763285843247</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"practice with datetime module\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763285894603</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763285894603</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"practice with datetime module\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1763285997694</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1763285997694</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <ignored-roots>\r\n      <path value=\"$PROJECT_DIR$/prac_02\" />\r\n      <path value=\"$PROJECT_DIR$/prac_03\" />\r\n      <path value=\"$PROJECT_DIR$/prac_04\" />\r\n      <path value=\"$PROJECT_DIR$/prac_05\" />\r\n      <path value=\"$PROJECT_DIR$/prac_06\" />\r\n    </ignored-roots>\r\n    <MESSAGE value=\"Deleting the Prac 2 branch and fixing the name of the repo\" />\r\n    <MESSAGE value=\"programming_language.py completed\" />\r\n    <MESSAGE value=\"small fixes\" />\r\n    <MESSAGE value=\"guitars section done\" />\r\n    <MESSAGE value=\"fixing dir\" />\r\n    <MESSAGE value=\"practice with datetime module\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"practice with datetime module\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/CP1404$guitar_tester.coverage\" NAME=\"guitar_tester Coverage Results\" MODIFIED=\"1763261611382\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/prac_06\" />\r\n    <SUITE FILE_PATH=\"coverage/CP1404$used_cars.coverage\" NAME=\"used_cars Coverage Results\" MODIFIED=\"1763200335827\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/prac_06\" />\r\n    <SUITE FILE_PATH=\"coverage/CP1404$module01.coverage\" NAME=\"module01 Coverage Results\" MODIFIED=\"1763282819842\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/CP1404$languages.coverage\" NAME=\"languages Coverage Results\" MODIFIED=\"1763257490523\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/prac_06\" />\r\n    <SUITE FILE_PATH=\"coverage/CP1404$guitar_test.coverage\" NAME=\"guitar_test Coverage Results\" MODIFIED=\"1763274827567\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/prac_06\" />\r\n    <SUITE FILE_PATH=\"coverage/CP1404$programming_language.coverage\" NAME=\"programming_language Coverage Results\" MODIFIED=\"1763201196166\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/prac_06\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ b/.idea/workspace.xml	(date 1763290804510)
+@@ -4,395 +4,39 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="practice with datetime module">
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/prac_02.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/prac_03.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/prac_04.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/prac_05.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/prac_06.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/module01.py" beforeDir="false" afterPath="$PROJECT_DIR$/module01.py" afterDir="false" />
++    <list default="true" id="ada565de-9a6a-4374-beb7-e91e81bf0372" name="Changes" comment="Adding README.md">
++      <change afterPath="$PROJECT_DIR$/prac_07/README.md" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Python Script" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="Prac_05_Feedback" />
+-      </map>
+-    </option>
+-    <option name="RECENT_COMMON_BRANCH" value="master" />
++    <option name="RECENT_COMMON_BRANCH" value="prac_07_feedback" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+-  </component>
+-  <component name="GitHubPullRequestSearchHistory">{
+-  &quot;lastFilter&quot;: {
+-    &quot;state&quot;: &quot;OPEN&quot;,
+-    &quot;assignee&quot;: &quot;jd119636&quot;
+-  }
+-}</component>
+-  <component name="GithubPullRequestsUISettings">{
+-  &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/jd119636/CP1014.git&quot;,
+-    &quot;accountId&quot;: &quot;97357be2-8f59-415c-867f-792e0d4343e1&quot;
+-  }
+-}</component>
+-  <component name="ProjectColorInfo">{
+-  &quot;associatedIndex&quot;: 4
+-}</component>
+-  <component name="ProjectId" id="35S64nFBnNuFYC7CdPaqEWUEqjW" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
++    <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "Python.guitar_test.executor": "Run",
+-    "Python.guitar_tester.executor": "Run",
+-    "Python.languages.executor": "Run",
+-    "Python.module01.executor": "Run",
+-    "Python.programming_language.executor": "Run",
+-    "Python.used_cars.executor": "Run",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+-    "git-widget-placeholder": "prac__07__feedback",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "last_opened_file_path": "C:/Users/PC/Documents/CP1404",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "vcs.Git",
+-    "to.speed.mode.migration.done": "true",
+-    "vue.rearranger.settings.migration": "true"
++    "git-widget-placeholder": "prac__07__feedback"
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Python.module01">
+-    <configuration name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CP1404" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_06" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_06/guitar_test.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CP1404" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 4" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/list_exercises.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="module01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CP1404" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module01.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="quick_picks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CP1404" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 4" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/quick_picks.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="subject_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="CP1404" />
+-      <option name="ENV_FILES" value="" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 4" />
+-      <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/subject_reader.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="Python.module01" />
+-        <item itemvalue="Python.guitar_test" />
+-        <item itemvalue="Python.subject_reader" />
+-        <item itemvalue="Python.quick_picks" />
+-        <item itemvalue="Python.list_exercises" />
+-      </list>
+-    </recent_temporary>
+-  </component>
+-  <component name="SharedIndexes">
+-    <attachedChunks>
+-      <set>
+-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+-        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+-      </set>
+-    </attachedChunks>
+-  </component>
+   <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="" />
+-      <created>1763090938372</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1763090938372</updated>
+-      <workItem from="1763090939525" duration="901000" />
+-      <workItem from="1763100489323" duration="238000" />
+-      <workItem from="1763100761136" duration="270000" />
+-      <workItem from="1763101192881" duration="1169000" />
+-      <workItem from="1763103067923" duration="265000" />
+-      <workItem from="1763103335466" duration="26000" />
+-      <workItem from="1763196623848" duration="366000" />
+-      <workItem from="1763197044275" duration="924000" />
+-      <workItem from="1763197999065" duration="14109000" />
+-      <workItem from="1763264545657" duration="662000" />
+-      <workItem from="1763265631471" duration="123000" />
+-      <workItem from="1763265784072" duration="2060000" />
+-      <workItem from="1763272335481" duration="1506000" />
+-      <workItem from="1763273910437" duration="1198000" />
+-      <workItem from="1763275123273" duration="4221000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="Deleting the Prac 2 branch and fixing the name of the repo">
+-      <option name="closed" value="true" />
+-      <created>1763100662944</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763100662953</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="programming_language.py completed">
+-      <option name="closed" value="true" />
+-      <created>1763255883967</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763255883967</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="small fixes">
+-      <option name="closed" value="true" />
+-      <created>1763255968896</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763255968896</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="guitars section done">
+-      <option name="closed" value="true" />
+-      <created>1763261641505</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763261641505</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="guitars section done">
+-      <option name="closed" value="true" />
+-      <created>1763266248978</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763266248978</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="guitars section done">
+-      <option name="closed" value="true" />
+-      <created>1763266790345</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763266790345</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="fixing dir">
+-      <option name="closed" value="true" />
+-      <created>1763274605969</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763274605969</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="practice with datetime module">
+-      <option name="closed" value="true" />
+-      <created>1763285788362</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763285788362</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="practice with datetime module">
+-      <option name="closed" value="true" />
+-      <created>1763285843247</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763285843247</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="practice with datetime module">
+-      <option name="closed" value="true" />
+-      <created>1763285894603</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763285894603</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="practice with datetime module">
+-      <option name="closed" value="true" />
+-      <created>1763285997694</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1763285997694</updated>
+-    </task>
+-    <option name="localTasksCounter" value="12" />
+     <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+-    <option name="RECENT_FILTERS">
+-      <map>
+-        <entry key="Branch">
+-          <value>
+-            <list>
+-              <RecentGroup>
+-                <option name="FILTER_VALUES">
+-                  <option value="master" />
+-                </option>
+-              </RecentGroup>
+-            </list>
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+     <option name="TAB_STATES">
+       <map>
+         <entry key="MAIN">
+           <value>
+             <State>
+-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+-                <map>
+-                  <entry key="Show.Git.Branches" value="true" />
+-                </map>
+-              </option>
+               <option name="FILTERS">
+                 <map>
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="master" />
++                        <option value="prac_07_feedback" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -403,22 +47,6 @@
+         </entry>
+       </map>
+     </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <ignored-roots>
+-      <path value="$PROJECT_DIR$/prac_02" />
+-      <path value="$PROJECT_DIR$/prac_03" />
+-      <path value="$PROJECT_DIR$/prac_04" />
+-      <path value="$PROJECT_DIR$/prac_05" />
+-      <path value="$PROJECT_DIR$/prac_06" />
+-    </ignored-roots>
+-    <MESSAGE value="Deleting the Prac 2 branch and fixing the name of the repo" />
+-    <MESSAGE value="programming_language.py completed" />
+-    <MESSAGE value="small fixes" />
+-    <MESSAGE value="guitars section done" />
+-    <MESSAGE value="fixing dir" />
+-    <MESSAGE value="practice with datetime module" />
+-    <option name="LAST_COMMIT_MESSAGE" value="practice with datetime module" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/CP1404$guitar_tester.coverage" NAME="guitar_tester Coverage Results" MODIFIED="1763261611382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+Index: module01.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># name = input(\"Hello: \")\r\n# print(\"Hello\", name)\r\n\r\n# monthly_cost = float(input(\"Monthly cost: \"))\r\n# total_cost = monthly_cost * 12\r\n# print(f\"The total is ${total_cost:.2f}\")\r\n\r\n\r\n# age = int(input(\"Enter your age: \"))\r\n# while age < 0 or age > 150:\r\n#     print(\"Invalid age\")\r\n#     age = int(input(\"Enter your age: \"))\r\n#\r\n# if age >= 66:\r\n#     category = (\"old\")\r\n# elif age >= 18:\r\n#     category = (\"Adult\")\r\n# elif age >= 5:\r\n#     category = (\"Child\")\r\n# else:\r\n#     category = (\"Baby\")\r\n# print(f\"Your age {age} is considered {category}\")\r\n\r\n\r\n# secret_number = 5\r\n# input_number = int(input(\"Enter a number from 1 - 10: \"))\r\n# while input_number != secret_number:\r\n#     print(\"Guess again \")\r\n#     input_number = int(input(\"Enter a number from 1 - 10: \"))\r\n# print(\"You Win\")\r\n\r\n# for i in range(1, 5):\r\n#     print (i)\r\n\r\n# name = \"Indra\"\r\n# for character in name:\r\n#     print (character)\r\n#\r\n\r\n# def print_line(length):\r\n#     print('-' * length)\r\n#\r\n# print_line(30)\r\n\r\n# def print_grid(number_of_rows, number_of_columns):\r\n#     for i in range(number_of_rows):\r\n#         print(\"*\"*number_of_columns)\r\n#\r\n# print_grid(3, 7)\r\n\r\n\r\n# def get_limits():\r\n#     low = int(input(\"enter lower limit: \"))\r\n#     high = int(input(\"enter upper limit: \"))\r\n#     return low, high, -1\r\n# thing = get_limits()\r\n# print(thing)\r\n# print(type(thing))\r\n#\r\n\r\n\r\n# import random\r\n# def print_secret_name(name):\r\n#     letters = list(name)\r\n#     random.shuffle(letters)\r\n#     print(\"\".join(letters))\r\n#\r\n# def display_menu():\r\n#     print(\"\\nMenu:\")\r\n#     print(\"G - get Valid Non Empty Name\")\r\n#     print(\"P - Hello\")\r\n#     print(\"S - Print Secret name\")\r\n#     print(\"Q - Quit\")\r\n#\r\n# def get_name():\r\n#     name = input(\"Enter your name: \")\r\n#     while name == \"\":\r\n#         print(\"Name cannot be blank\")\r\n#         name = input(\"Enter your name: \")\r\n#     return name\r\n#\r\n# def print_line(length):\r\n#     print(\"-\" * length)\r\n#\r\n# def Print_greeting():\r\n#     Length= (len(name)+6)\r\n#     print_line(Length)\r\n#     print(f\"Hello {name}\")\r\n#     print_line(Length)\r\n#\r\n#\r\n#\r\n# display_menu()\r\n# choice = input(\"\\n Which option would you like to choose: \").upper()\r\n#\r\n#\r\n#\r\n# while choice != \"Q\":\r\n#     if choice == \"G\":\r\n#         name = get_name()\r\n#         display_menu()\r\n#         choice = input(\"Which option would you like to choose: \").upper()\r\n#     elif choice == \"P\":\r\n#         Print_greeting()\r\n#         display_menu()\r\n#         choice = input(\"Which option would you like to choose: \").upper()\r\n#     elif choice == \"S\":\r\n#         print_secret_name(name)\r\n#         display_menu()\r\n#         choice = input(\"Which option would you like to choose: \").upper()\r\n#     else:\r\n#         print(\"Invalid choice\")\r\n#         display_menu()\r\n#         choice = input(\"Which option would you like to choose: \").upper()\r\n# print(\"Thank you for playing\")\r\n#\r\n\r\n\r\n# def print_line (length, pen = '-'):\r\n#     print(pen*length)\r\n#\r\n# print_line(5)\r\n\r\n\r\n# FILENAME = \"secret.txt\"\r\n#\r\n#\r\n# def main():\r\n#     secret = load_number(FILENAME)\r\n#     guess = get_valid_number()\r\n#     while guess != secret:\r\n#         print(\"Guess again\")\r\n#         guess = get_valid_number()\r\n#     print(\"you got it\")\r\n#\r\n# def get_valid_number():\r\n#     is_valid_input = False\r\n#     while not is_valid_input:\r\n#         try:\r\n#             guess = int(input(\"Guess a number: \"))\r\n#             is_valid_input = True\r\n#         except ValueError:\r\n#             print(\"Invalid integer\")\r\n#     return guess\r\n#\r\n# get_valid_number()\r\n#\r\n# def load_number(filename):\r\n#     try:\r\n#         infile = open(filename, \"r\")\r\n#         number = int(infile.read())\r\n#     except ValueError:\r\n#         print(f\"Invalid number in {filename}\")\r\n#         number = 6\r\n#     except FileNotFoundError:\r\n#         print(f\"File {filename} not found\")\r\n#         number = 4\r\n#     else:\r\n#         infile.close()\r\n#     return number\r\n#\r\n# main()\r\n\r\n\r\n# line = \"Indra Kiiver....\"\r\n# line.strip('.')\r\n# print (line.strip())\r\n\r\n\"\"\"opens a file and reads\"\"\"\r\n# from prac_05.wimbledon import in_file\r\n\r\n# infile = open(\"SECRET.md\")\r\n# infile.readlines(\"#\")\r\n# infile.close()\r\n\r\n# with open(\"data.txt\", \"r\") as infile:\r\n#     infile.readline()   #ignore header\r\n#     for line in infile:\r\n#         # print(line)\r\n#         parts = line.strip().split(',')\r\n#         # print(parts)\r\n#\r\n#         name = parts[0]\r\n#         age = int(parts[1])\r\n#         print(f\"{name} will be {age+1} years old next year\")\r\n\r\n# infile = open(\"dataset.txt\",\"r\")\r\n# for line in infile:\r\n#     parts = line.strip(\"\\n\").split(',')\r\n#     name = parts[0]\r\n#     age = int(parts[1])\r\n#     cost = float(parts[2]).strip(\"\\n\")\r\n#     print(f\"{name} was made in {age} and costs {cost}.\")\r\n\r\n# names = (\"Craig\", \"Michael\", \"Terrance\", \"Philip\")\r\n# number = int(input(f\"Enter number up to {len(names)}:\"))\r\n# try:\r\n#     print(names[number-1])\r\n# except IndexError:\r\n#     print(\"Invalid input.\")\r\n\r\n# from operator import itemgetter\r\n# data = [['Derek', 7], ['Carrie', 8],['Bob', 6], ['Aaron', 9] ]\r\n# # data.sort()\r\n# data.sort(key=itemgetter(1), reverse = True)\r\n# for record in data:\r\n#     print(data)\r\n\r\n# score_pairs = [['Derek', 7], ['Carrie', 8], ['Bob', 6]]\r\n# data = input (\"Enter a name and score:\")\r\n# parts = data.split()\r\n# score_pairs.append(parts)\r\n# print(score_pairs)\r\n\r\n\"\"\"stores the first and second term in the list\"\"\"\r\n# fruit = ['orange', 'apple', 'pear', 'banana']\r\n# balls = \"-{}- {}\".format(*fruit)\r\n# print(balls)\r\n\r\n\r\n\"\"\"Display income report for incomes over a given number of months.\"\"\"\r\n# def main():\r\n#     incomes = []\r\n#     months = int(input(\"How many months? \"))\r\n#\r\n#     for month in range(1, months + 1):\r\n#         income = float(input(f\"Enter income for month: $\"))\r\n#         incomes.append(income)\r\n#\r\n#     print(\"\\nIncome Report\\n-------------\")\r\n#     total = 0\r\n#     for month in range(1, months + 1):\r\n#         income = incomes[month - 1]\r\n#         total += income\r\n#         print(\"Month {:2} - Income: ${:10.2f} Total: ${:10.2f}\".format(month, income, total))\r\n#\r\n#\r\n# main()\r\n\r\n\r\n\"\"\"converts strings to integers\"\"\"\r\n# almost_numbers = ['0', '10', '21', '3', '-7', '88', '9']\r\n# numbers = [int(number.strip()) for number in almost_numbers]\r\n# print(numbers)\r\n\r\n\"\"\"prints names longer than 11 characters\"\"\"\r\n# long_names = [name for name in full_names if len(name) > 11]\r\n# for name in long_names:\r\n#     print(name)\r\n\r\n\"\"\"Code does not generate duplicates through sample also join turns it into an integer\"\"\"\r\n# import random\r\n# quick_picks = int(input (\"how many quick picks would you like to generate? :\"))\r\n# for i in range(quick_picks):\r\n#     numbers = random.sample(range (1, 45), 6)\r\n#     numbers.sort()\r\n#     print(\" \".join(f\"{number:2}\" for number in numbers))\r\n\r\n\r\n\"\"\"asks if balls is a string\"\"\"\r\n# from tkinter.font import names\r\n# isinstance(\"balls\", str)\r\n\r\n\"\"\"finds the oldest in the list and prints the names if multiple people are the max age\"\"\"\r\n# data_names = ['John', 'Bob', 'Joe', 'James']\r\n# data_ages = [21, 34, 56, 56]\r\n#\r\n# def find_oldest(data_names, data_ages):\r\n#     oldest_age = max(data_ages)\r\n#\r\n#     count = data_ages.count(oldest_age)\r\n#     if count > 1:\r\n#         print(f\"The oldest age is {oldest_age}.\")\r\n#         print(\"People with that age:\")\r\n#         for i in range(len(data_ages)):\r\n#             if data_ages[i] == oldest_age:\r\n#                 print(f\"- {data_names[i]}\")\r\n#     else:\r\n#         index = data_ages.index(max(data_ages))\r\n#         print(index)\r\n#         print (f\"{data_names[index]} is {max(data_ages)}\")\r\n#\r\n# find_oldest(data_names, data_ages)\r\n\r\n\r\n\"\"\"within a dictionary, removing witching names, adding names before\"\"\"\r\n# name_to_age = {'Ben' : 10, 'Sam': 20, 'Xarah': 30}\r\n# name_to_age ['Lucas'] = 40\r\n# name_to_age ['Zara'] = name_to_age.pop('Xarah')\r\n# print(name_to_age)\r\n#\r\n\r\n\r\n\"\"\"lists name and numbers of people for a dictionary\"\"\"\r\n# name_to_age = {'Ben' : 10, 'Sam': 20, 'Xarah': 30}\r\n# for name,age in name_to_age.items():\r\n#     print(name,age)\r\n#\r\n# ages = list(name_to_age.values())\r\n# ages.sort()\r\n# print(ages)\r\n# for name in name_to_age:\r\n#     print(f\"{name} is {name_to_age[name]} years old\")\r\n\r\n\"\"\"dictionary, new name and age and prints nicely\"\"\"\r\n# name_to_age = {'Bill' : 21, 'Jane': 4, 'Sven': 56}\r\n# new_name = str(input(\"enter your new name: \"))\r\n# new_age = int(input(\"enter your new age: \"))\r\n# name_to_age[new_name] = new_age\r\n# max_length = max(len(new_name) for new_name in list(name_to_age.keys()))\r\n# for name in name_to_age:\r\n#     print(f\"{name:{max_length}} is {name_to_age[name]:3} years old\")\r\n\r\n\"\"\"splits the text by commas, then join removes the quotes\"\"\"\r\n# text = \"\"\"EG2000 EG2008 EG2000 EG2008\"\"\"\r\n# print(\",\".join(set(text.split())))\r\n\r\n\"\"\"step out and open, strip all lines\"\"\"\r\n# in_file = open('../data/wimbledon')\r\n# lines = [line,strip() for line in in_file.readlines()]\r\n\r\n\"\"\"using jason (accessing things in dictionary) and adding text to a dictionary\"\"\"\r\n# import json\r\n# demo_text = \"\"\"{\"number\": 1, \"title\": \"Demo\", \"state\": \"open\"}\"\"\"\r\n#\r\n# thing = json.loads(demo_text)\r\n# print(thing)\r\n# print(type(thing))\r\n# print(thing['title'])\r\n# thing['title'] = thing['title'].upper()\r\n# print(thing['title'])\r\n#\r\n# text = json.dumps(thing)\r\n# print(text)\r\n# print(type(text))\r\n\r\n\"\"\"inputs emails until blank, then prints the name  followed by the email\"\"\"\r\n\r\n# def split_email(email):\r\n#     \"\"\"Split an email into first and last name parts\"\"\"\r\n#     name_part = email.split(\"@\")[0]\r\n#     split_name = name_part.split(\".\")\r\n#     return split_name\r\n#\r\n#\r\n# email_set = []\r\n# email = input(\"Enter an email: \").lower()\r\n#\r\n# while email != \"\":\r\n#     choice = input(f\"is your email {email} Y/N:\").lower()\r\n#     if choice == \"y\":\r\n#         split_name = split_email(email)\r\n#         email_set.append([email, split_name])\r\n#     elif choice == \"n\":\r\n#         pass\r\n#     else:\r\n#         print(\"Please press Y or N\")\r\n#     email = input(\"Enter an email: \").lower()\r\n#\r\n# print(\"\\nSaved email list:\")\r\n# for email, name_parts in email_set:\r\n#     first_name = name_parts[0].capitalize()\r\n#     last_name = name_parts[1].capitalize()\r\n#     print(f\"{first_name} {last_name} ({email})\")\r\n\r\n\"\"\"getting things from lists in lists\"\"\"\r\n# on_sale_products = []\r\n# products = [[\"Phone\", 340, False], [\"PC\", 1420.95, True], [\"Plant\", 24.5, True]]\r\n#\r\n# for name, price, on_sale in products:\r\n#     if on_sale:  # same as if on_sale == True\r\n#         on_sale_products.append(name)\r\n#\r\n# print(on_sale_products)\r\n\r\n\r\n\"\"\"Reading from a csv file \"\"\"\r\n# import csv\r\n# reader = csv.reader(in_file)\r\n# for row in reader:\r\n#     print(row)\r\n#\r\n\r\n\"\"\"Skipping first line \"\"\"\r\n# in_file.readline()\r\n\"\"\"turning a large number into a readable number for a csv \"\"\"\r\n# row[2] = int(row[2].replace(',', ''))\r\n\r\n\"\"\"slicing off the last character\"\"\"\r\n# row[3]=float(row[3][:-1])\r\n\r\n\"\"\"Only keeping the last 4 characters\"\"\"\r\n# row[3]=float(row[3][-4:])\r\n\r\n\"\"\"Work with separate files\"\"\"\r\n# class City:\r\n#     def __init__(self, name = \"\", population = 0, percent = 0.0):\r\n#         self.name = name\r\n#         self.population = population\r\n#         self.percent = percent\r\n#\r\n#     def __str__(self):\r\n#         return f\"{self.name}, {self.population: ,}, {self.percent}%\"\r\n\r\n\"\"\"Having a file called city  with\"\"\"\r\n# from prac_06 import City\r\n# city = City(row[1],row[2],row[3])\r\n\r\n\"\"\"sees if the variable is something else\"\"\"\r\n# isinstance(x, int)\r\n\r\n\"\"\"method to add special values\"\"\"\r\n# def __add__ (self, other):\r\n#     return City(self.name + other.name)\r\n\r\n\"\"\"class work\"\"\"\r\n# def __eq__ (self, other):\r\n#     return City(self.name == other.name, self.age == other.age)\r\n\r\n\"\"\"to link something\"\"\"\r\n# [me](https:)\r\n\r\n\"\"\"datetime module\"\"\"\r\n# import datetime\r\n# balls = datetime.date(2022, 11, 23)\r\n# print (balls.strftime(\"%d %b %Y (%A)\"))\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/module01.py b/module01.py
+--- a/module01.py	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ b/module01.py	(date 1763289744699)
+@@ -167,7 +167,7 @@
+ # print (line.strip())
+ 
+ """opens a file and reads"""
+-# from prac_05.wimbledon import in_file
++from prac_05.wimbledon import in_file
+ 
+ # infile = open("SECRET.md")
+ # infile.readlines("#")
+@@ -258,7 +258,8 @@
+ 
+ 
+ """asks if balls is a string"""
+-# from tkinter.font import names
++from tkinter.font import names
++
+ # isinstance("balls", str)
+ 
+ """finds the oldest in the list and prints the names if multiple people are the max age"""
+@@ -406,21 +407,3 @@
+ # from prac_06 import City
+ # city = City(row[1],row[2],row[3])
+ 
+-"""sees if the variable is something else"""
+-# isinstance(x, int)
+-
+-"""method to add special values"""
+-# def __add__ (self, other):
+-#     return City(self.name + other.name)
+-
+-"""class work"""
+-# def __eq__ (self, other):
+-#     return City(self.name == other.name, self.age == other.age)
+-
+-"""to link something"""
+-# [me](https:)
+-
+-"""datetime module"""
+-# import datetime
+-# balls = datetime.date(2022, 11, 23)
+-# print (balls.strftime("%d %b %Y (%A)"))
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n    <mapping directory=\"$PROJECT_DIR$/a1-books-jd119636\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 069418c73c13eba3c43127c3a5bc43f92c04b2fd)
++++ b/.idea/vcs.xml	(date 1763289744699)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="" vcs="Git" />
+     <mapping directory="$PROJECT_DIR$/a1-books-jd119636" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
