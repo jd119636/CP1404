@@ -4,43 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="practice with datetime module">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/prac_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/prac_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/prac_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/prac_05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/prac_06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac_06/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module01.py" beforeDir="false" afterPath="$PROJECT_DIR$/module01.py" afterDir="false" />
+    <list default="true" id="ad4c3429-89c0-4c69-8663-d9836e40727c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prac_07/guitar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/guitars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/language_file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/languages.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/my_guitars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/programming_language.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/project_management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prac_07/projects.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +65,14 @@
     &quot;Python.guitar_tester.executor&quot;: &quot;Run&quot;,
     &quot;Python.languages.executor&quot;: &quot;Run&quot;,
     &quot;Python.module01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_guitars.executor&quot;: &quot;Run&quot;,
     &quot;Python.programming_language.executor&quot;: &quot;Run&quot;,
     &quot;Python.used_cars.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;prac__07__feedback&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Documents/CP1404&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -110,7 +85,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.module01">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\CP1404" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.my_guitars">
+    <configuration name="Practice_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CP1404" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\PC\Documents\CP1404\Practice_code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="guitar_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404" />
       <option name="ENV_FILES" value="" />
@@ -134,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_guitars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CP1404" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,35 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Prac 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/prac_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prac 4/list_exercises.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="module01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CP1404" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prac_07/my_guitars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.module01" />
+        <item itemvalue="Python.my_guitars" />
+        <item itemvalue="Python.Practice_code" />
         <item itemvalue="Python.guitar_test" />
         <item itemvalue="Python.subject_reader" />
         <item itemvalue="Python.quick_picks" />
-        <item itemvalue="Python.list_exercises" />
       </list>
     </recent_temporary>
   </component>
@@ -266,6 +246,7 @@
       <workItem from="1763272335481" duration="1506000" />
       <workItem from="1763273910437" duration="1198000" />
       <workItem from="1763275123273" duration="4221000" />
+      <workItem from="1763441511289" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Deleting the Prac 2 branch and fixing the name of the repo">
       <option name="closed" value="true" />
@@ -355,7 +336,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763285997694</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="deleting useless files">
+      <option name="closed" value="true" />
+      <created>1763363842403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1763363842403</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Adding README.md to outside repo and renaming a file">
+      <option name="closed" value="true" />
+      <created>1763364259832</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1763364259832</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,10 +415,13 @@
     <MESSAGE value="guitars section done" />
     <MESSAGE value="fixing dir" />
     <MESSAGE value="practice with datetime module" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice with datetime module" />
+    <MESSAGE value="deleting useless files" />
+    <MESSAGE value="Adding README.md to outside repo and renaming a file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding README.md to outside repo and renaming a file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CP1404$guitar_tester.coverage" NAME="guitar_tester Coverage Results" MODIFIED="1763261611382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
+    <SUITE FILE_PATH="coverage/CP1404$my_guitars.coverage" NAME="my_guitars Coverage Results" MODIFIED="1763364037040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_07" />
     <SUITE FILE_PATH="coverage/CP1404$used_cars.coverage" NAME="used_cars Coverage Results" MODIFIED="1763200335827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
     <SUITE FILE_PATH="coverage/CP1404$module01.coverage" NAME="module01 Coverage Results" MODIFIED="1763282819842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CP1404$languages.coverage" NAME="languages Coverage Results" MODIFIED="1763257490523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prac_06" />
